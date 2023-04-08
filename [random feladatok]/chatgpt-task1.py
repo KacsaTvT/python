@@ -1,0 +1,10 @@
+valaszok=[]
+v1=float(input("Adj meg egy számot"))
+v2=float(input("Adj meg mégegy számot"))
+valaszok.append(v1)
+valaszok.append(v2)
+print(v1, v2)
+print(sum(valaszok)) #akkor lehet jó, ha nem csak két számot kérsz be, vagy megadott hosszú listával van dolgod alternatíva: print(v1+v2)
+print(v1-v2)
+print(v1*v2)
+print(v1/v2)
