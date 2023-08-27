@@ -1,4 +1,4 @@
-﻿"sulipy" --> ez az a bizonyos mindenes mappa, amiben a fájlok (amikben az oldalon található feladatok "megoldásai") ömlesztett formában vannak jelen. A fele szerintem már nem is működik, a másik fele meg 400 felesleges sorral üzemel... de azért mondjuk van köszte pár egész szép sor is. (mazsolázni lehet ezekből, tanulni vagy gyakorolni már kevsébé)
+﻿"sulipy" --> ez az a bizonyos mindenes mappa, amiben a fájlok (amikben az oldalon található feladatok "megoldásai") ömlesztett formában vannak jelen. A fele szerintem már nem is működik, a másik fele meg 400 felesleges sorral üzemel... de azért mondjuk van köszte pár egész szép sor is. (mazsolázni lehet ezekből, tanulni vagy gyakorolni már kevésbé)
 
 "__pycache__" --> engedd el, ott fog szerintem árváskodni életem végéig.
 
