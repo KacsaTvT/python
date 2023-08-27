@@ -1,1 +1,5 @@
-﻿Saját python gyakorló fájlok + tesztek --> külön megoldással kommentekkel.
+﻿"sulipy" --> ez az a bizonyos mindenes mappa, amiben a fájlok (amikben az oldalon található feladatok "megoldásai") ömlesztett formában vannak jelen. A fele szerintem már nem is működik, a másik fele meg 400 felesleges sorral üzemel... de azért mondjuk van köszte pár egész szép sor is. (mazsolázni lehet ezekből, tanulni vagy gyakorolni már kevsébé)
+
+"__pycache__" --> engedd el, ott fog szerintem árváskodni életem végéig.
+
+"[random feladatok]" --> na ez egy olyan terület ahol már érdekesebb a dolog... itt akár kicsit fel is elevenítheted a python tudásodat (ha volt), de nem kell nagy durranásra számítani azért... nem vagyok tanár! de ha kicsit tréningelni akarod magad, akkor kezdj neki! de ajánlom, h találj jobb megoldást, mint az enyém, és akkor azt tedd fel githubra. (ha valamit ne adj isten nem értenél, akkor nagyon kedves voltam veled és a megoldásban odaírtam NAGYJÁBÓL, hogy mit-miért)

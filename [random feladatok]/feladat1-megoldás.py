@@ -6,3 +6,4 @@ print(v1+v2) #számok összege
 print(v1-v2) #számok különbsége
 print(v1*v2) #számok szorzata
 print(v1/v2) #számok hányadosa
+#float = megengedi, h nem csak egész számot adhatsz meg

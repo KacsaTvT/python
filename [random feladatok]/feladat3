@@ -1,1 +1,2 @@
-Készíts egy programot, ami bekér a felhasználótól egy mondatot, majd megvizsgálja, hogy hány magánhangzó (a,e,i,o,u,á,é,í,ó,ö,ő,ú,ü,ű || és ezek ha nagybetűk) van a mondatban.
+Készíts egy programot, ami bekér a felhasználótól egy mondatot, majd megvizsgálja, 
+hogy hány magánhangzó (a,e,i,o,u,á,é,í,ó,ö,ő,ú,ü,ű || és ezek ha nagybetűk) van a mondatban.
